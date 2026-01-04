@@ -44,3 +44,10 @@ Il programma carica i dati precedenti da un file esterno (save.json) per maggior
 
 Obiettivo del programma
 Il gioco è progettato per combinare simulazione realistica, interattività e progressione scalabile, offrendo un ambiente di allenamento virtuale dove il giocatore deve reagire rapidamente, gestire risorse temporali e prendere decisioni efficaci sotto pressione.
+
+Fatto da:
+Graziuso Giuseppe;
+La Mura Fiore;
+Di Maio Luigi;
+Cafiero Liberato.
+
